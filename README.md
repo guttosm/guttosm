@@ -2,7 +2,7 @@
 
 **`Developer`**
 
-I'm an software developer building and coding projects from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a software developer building and coding projects from the ground up, from planning and designing to solving real-life problems with code.
 
 ### 🧰 Languages and Tools
 
@@ -26,7 +26,7 @@ I'm an software developer building and coding projects from the ground up, from 
 
 <details>
  <summary><h3>👨🏻‍💻 Gustavo's Coding Journey</h3></summary>
-   As a computer science student, I started my coding journey to learn everything I could about programming - code, Unix, Linux, and all the while teaching myself backend development, desiring to excel in Java. A desire that landed me a backend software developer job upon graduation. However, I had another desire I had been pursuing throughout this time: more knowledge about infrastructure and all related topics like cloud providers, containers, and CI/CD pipelines. I got a position to work as a DevOps and nailed making that choice. Now I'm going to my next challenge, becoming a Machine Learning Engineer.
+   As a computer science student, I started my coding journey to learn everything I could about programming - code, Unix, Linux, and all the while teaching myself backend development, desiring to excel in Java. A desire that landed me a backend software developer job upon graduation. However, I had another desire I had pursued throughout this time: more knowledge about infrastructure and all related topics like cloud providers, containers, and CI/CD pipelines. I got a position to work as a DevOps and nailed making that choice. I'm going to my next challenge, becoming a Machine Learning Engineer.
 
 
 #
